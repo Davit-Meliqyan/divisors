@@ -5,7 +5,7 @@ public class divisors {
 
         Scanner scaner = new Scanner(System.in);
 
-        System.out.println("insert the number");
+        System.out.println("insert a number");
 
         int j=scaner.nextInt();
 
