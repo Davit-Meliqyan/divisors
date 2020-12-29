@@ -14,6 +14,5 @@ public class divisors {
             if( j % i != 0 ) continue;
             System.out.println(i);
         }
-
     }
 }
